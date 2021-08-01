@@ -3,7 +3,7 @@ Starting today, I am starting my serious journey to software engineering and dev
 
 ### About me:
 - 👋 Hi, I’m @keshiQT
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Studying and progressing through my journey
 - 🌱 I’m currently learning ... anything about coding/programming
 - 💞️ I’m looking to collaborate on ... my future projects
 - 📫 How to reach me ... contact coming soon
